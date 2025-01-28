@@ -49,19 +49,20 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MSAndromeda&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <!-- <img src="https://streak-stats.demolab.com?user=MSAndromeda&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MSAndromeda" alt="GitHub Streak" /></a>
 </div>
 
 ###
 
 <img src="https://raw.githubusercontent.com/MSAndromeda/MSAndromeda/output/snake.svg" alt="Snake animation" />
 
-###
-<!-- 
+<!-- ###
+
 <div align="center">
   <a href="https://open.spotify.com/user/qpce7hh4cfv1nrr7blkiuxdf4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=qpce7hh4cfv1nrr7blkiuxdf4&count=5" alt="Spotify recently played"  />
   </a>
-</div> -->
+</div>
 
-###
+### -->
