@@ -5,21 +5,12 @@
 **Frontend-Focused Full‑Stack Developer** · React & Next.js · Node/Express · MongoDB · DSA daily · Loves clean, animated UIs ✨
 
 <!-- Badges with links -->
-<a href="https://portfolio-one-kohl-22.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="My Portfolio" />
-</a>
-<a href="./resume.pdf">
-  <img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
-</a>
-<a href="https://www.linkedin.com/in/manas-anand-singh-2414321b8/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://leetcode.com/u/ManasAnandSingh/">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-<a href="mailto:manasanandsingh.andro@gmail.com">
-  <img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
+
+<a href="https://portfolio-one-kohl-22.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="My Portfolio" /></a>
+<a href="./resume.pdf"><img src="https://img.shields.io/badge/Resume-0A66C2?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+<a href="https://www.linkedin.com/in/manas-anand-singh-2414321b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/ManasAnandSingh/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="mailto:manasanandsingh.andro@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -128,6 +119,8 @@
 
 ### 📊 Stats at a glance
 
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MSAndromeda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MSAndromeda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
@@ -155,6 +148,8 @@
   <!-- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MSAndromeda" alt="GitHub Streak" /></a> -->
 <!-- </div> -->
 
+---
+
 ### 📫 Contact
 
 <p>
@@ -169,11 +164,9 @@
 </a>
 </p>
 
----
-
 ###
 
-<img src="https://raw.githubusercontent.com/MSAndromeda/MSAndromeda/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/MSAndromeda/MSAndromeda/output/snake.svg" alt="Snake animation" /> -->
 
 <!--
 <details>
@@ -186,5 +179,3 @@
 </details> -->
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
